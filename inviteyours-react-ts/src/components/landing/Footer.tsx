@@ -18,7 +18,7 @@ export function Footer() {
         <div>
           <div className="text-xs uppercase tracking-widest text-primary mb-4">Contact</div>
           <ul className="space-y-2 text-sm text-muted-foreground">
-            <li>hello@inviteyours.com</li>
+            <li>www.inviteyours.com</li>
             <li>+251 921251486</li>
             <li>Telegram: @inviteyours</li>
           </ul>
