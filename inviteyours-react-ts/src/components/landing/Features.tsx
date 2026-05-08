@@ -6,7 +6,7 @@ const features = [
   { icon: Palette, title: "Event Customization", desc: "Tailor invitations for weddings, birthdays, corporate galas, and religious celebrations." },
   { icon: MapPin, title: "Map Integration", desc: "Built-in Google Maps so guests find your venue effortlessly — every time." },
   { icon: Send, title: "Telegram Bot", desc: "Auto notifications, confirmations, and reminders directly through Telegram." },
-  { icon: ImageIcon, title: "Media Sharing", desc: "Curate photos, videos, and live galleries that bring every moment together." },
+  { icon: ImageIcon, title: "Media Sharing", desc: "Create photos, videos, and live galleries that bring every moment together." },
 ];
 
 export function Features() {
